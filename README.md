@@ -1,2 +1,2 @@
 # Custom-Logger
-Logger
+Author: Ashish Singh Tanwar
